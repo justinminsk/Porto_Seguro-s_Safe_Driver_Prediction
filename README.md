@@ -13,7 +13,7 @@ Remeber to pull before starting work. -Justin
 
 ## Authors
 
-Justin Minsk -justin.minsk@gmail.com
+Justin Minsk - justin.minsk@gmail.com
 
 Jerrin
 
