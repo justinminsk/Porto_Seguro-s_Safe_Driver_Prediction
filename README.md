@@ -9,6 +9,8 @@ git lfs install
 this will allow you to download and upload the csv file.
 https://git-lfs.github.com/ for more information. 
 
+Remeber to pull before starting work. -Justin
+
 ## Authors
 
 Justin Minsk -justin.minsk@gmail.com
