@@ -3,7 +3,7 @@ Teams github for the competition.
 
 ## Know Problems
 None at this time. Make sure to install lfs with the command 
-git lfs install
+--git lfs install--
 this will allow you to download and up load the csv file.
 https://git-lfs.github.com/ for more information. 
 
