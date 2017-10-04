@@ -1,8 +1,8 @@
 # Porto_Seguro-s_Safe_Driver_Prediction
 Teams github for the competition. 
 
-## Know Problems
-None at this time. Make sure to install lfs with the command 
+## Useful Info
+Make sure to install lfs with the command 
 
 git lfs install
 
